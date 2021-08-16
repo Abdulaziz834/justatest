@@ -13,5 +13,3 @@ def round_up_to(son, l=0):
 		return float(drobi[0] + "." + str(int(drob)+1))
 	vse = drobi[0] + "." + drob
 	return float(vse)
-
-print(round_up_to(2.1928374651123, 3))
